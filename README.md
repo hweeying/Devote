@@ -1,0 +1,3 @@
+# Devote
+
+An ios to-do list app with Core Data, play sound, app storage, custom header, custom bottom sheet with blur background ...
